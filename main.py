@@ -8,6 +8,11 @@ def nova_funkcija():
     return "Ovo je nova funkcija."
 
 # Ovo je moj komentar - EnaBuric
+<<<<<<< HEAD
 
 def nova_metoda(self):
     return "Ovo je nova metoda"
+=======
+def nova_metoda():
+    return "Ovo je nova metoda 2."
+>>>>>>> 599db0bc8c060e27e4aea673cc68f76d4c0e8628
